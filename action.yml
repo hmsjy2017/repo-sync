@@ -1,4 +1,4 @@
-name: Repo Sync Action
+name: Repo Sync
 description: Sync current repo to specified repo
 branding:
   icon: upload-cloud
