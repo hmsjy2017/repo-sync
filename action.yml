@@ -1,4 +1,5 @@
 name: Repo Sync
+author: Ye Han
 description: Sync current repo to specified repo
 branding:
   icon: upload-cloud
